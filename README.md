@@ -1,6 +1,6 @@
 # PassWiz - Your Own Password Manager
 
-![Logo](https://raw.githubusercontent.com/rameez-sidd/password-manager/83ed068830e54a3ddeba6f558cfd5f24fb6dde9e/public/favicon.svg) <!-- Replace with your actual logo URL -->
+<img src="https://i.postimg.cc/hPGGqz9z/Screenshot-2024-10-31-201034.png" alt="Logo" width="300" />
 
 ## Description
 
@@ -31,7 +31,7 @@ To set up PassWiz locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/passwiz.git](https://github.com/rameez-sidd/password-manager.git
+   git clone https://github.com/rameez-sidd/password-manager.git
    cd password-manager
 
 2. Install dependencies for frontend:
