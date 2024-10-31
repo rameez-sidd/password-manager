@@ -29,8 +29,6 @@ const Manager = () => {
     let req = await fetch('http://localhost:3000')
     let passwords = await req.json()
     setPwdArray(passwords);
-    console.log(passwords)
-   
 
   }
 
