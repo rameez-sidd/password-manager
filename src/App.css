@@ -1,0 +1,43 @@
+.neon-input {
+    --neon-color: #00ff7f;
+    /* Neon green color */
+    transition: box-shadow 0.3s ease;
+}
+.neon-input:hover {
+    border-color: var(--neon-color);
+    box-shadow: 0 0 4px var(--neon-color), 0 0 10px rgba(0, 255, 127, 0.6), 0 0 20px rgba(0, 255, 127, 0.4);
+}
+
+
+.neon-input:focus {
+    border-color: var(--neon-color);
+    box-shadow: 0 0 4px var(--neon-color), 0 0 10px rgba(0, 255, 127, 0.6), 0 0 20px rgba(0, 255, 127, 0.4);
+}
+
+
+.pwdInput-container {
+    transition: box-shadow 0.3s ease;
+}
+
+.pwdInput-container:hover {
+    border-color: #00ff7f;
+    /* Neon green color */
+    box-shadow: 0 0 4px #00ff7f, 0 0 10px rgba(0, 255, 127, 0.6), 0 0 20px rgba(0, 255, 127, 0.4);
+}
+.pwdInput-container:focus-within {
+    border-color: #00ff7f;
+    /* Neon green color */
+    box-shadow: 0 0 4px #00ff7f, 0 0 10px rgba(0, 255, 127, 0.6), 0 0 20px rgba(0, 255, 127, 0.4);
+}
+
+.saveBtn:hover{
+    border-color: #00ff7f;
+    /* Neon green color */
+    box-shadow: 0 0 4px #00ff7f, 0 0 10px rgba(0, 255, 127, 0.6), 0 0 20px rgba(0, 255, 127, 0.4);
+}
+
+.gitHub-btn:hover {
+    border-color: #00ff7f;
+    /* Neon green color */
+    box-shadow: 0 0 4px #00ff7f, 0 0 10px rgba(0, 255, 127, 0.6), 0 0 20px rgba(0, 255, 127, 0.4);
+}
