@@ -1,6 +1,7 @@
-# PassWiz - Your Own Password Manager
 
-<img src="https://i.postimg.cc/cCk0JhQK/Screenshot-2024-10-31-201819.png" alt="Logo" width="300" />
+
+<img src="https://i.postimg.cc/cCk0JhQK/Screenshot-2024-10-31-201819.png" alt="Logo" width="300" style="text-align:center;" />
+
 
 ## Description
 
